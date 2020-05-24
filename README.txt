@@ -1,4 +1,6 @@
  This is first git example
  Adding new content 
-Adding Second Content
+<<<<<<< HEAD
 Adding Third Content
+=======
+>>>>>>> parent of 31daf00... Second Commit
